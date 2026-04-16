@@ -1,0 +1,4 @@
+- VirtualBox 7.x ve Git v2.45 kuruldu. 
+- Kali Linux 2026 sistemi ayaga kaldirildi. 
+- Ag baglantisi( Ping testi) basarili. 
+- Klavye Turkce (TR)  olarak ayarlandi. 
